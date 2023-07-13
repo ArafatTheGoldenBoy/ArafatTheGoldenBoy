@@ -6,7 +6,7 @@ I'm a computer science student. Currently, I'm doing my master in 💻 Automotiv
 - 👯 I’m looking to collaborate on web engineering
 - 💬 Ask me about islam at any time
 - 📫 How to reach me: by email or phone
-- ⚡ Fun fact: I love playing video games and watching dramas
+- ⚡ Fun fact: I love playing video games and watching dramas and anime
 ## 🛠 Skills
 PHP, C, C#, Java, JS, Laravel, MS Office, REST API, Database, SQL, OOP, MVC, HTML5, CSS3, Bootstrap, JQuery, DOT NET, Web design, PostgreSQ,L V model, Can Bus, ISpin, WordPress, Selenieum and many more ...
 

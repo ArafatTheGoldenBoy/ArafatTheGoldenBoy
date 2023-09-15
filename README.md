@@ -1,7 +1,7 @@
 ###  Hi, I'm Yasin Arafat! 👋
 ## 🚀 About Me
 I'm a computer science student. Currently, I'm doing my master in 💻 Automotive Software Engineering 💻.
-- 🔭 I’m currently working on my seminar and topic is Automated Visual Inspection based on Deep Learning
+- 🔭 I’m completed my seminar which is about Automated Visual Inspection based on Deep Learning
 - 🌱 I’m currently learning stock markets
 - 👯 I’m looking to collaborate on web engineering
 - 💬 Ask me about islam at any time

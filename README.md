@@ -1,4 +1,3 @@
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 ###  Hi, I'm Yasin Arafat! 👋
 ## 🚀 About Me
 I'm a computer science student. Currently, I'm doing my master in 💻 Automotive Software Engineering 💻.
@@ -10,7 +9,7 @@ I'm a computer science student. Currently, I'm doing my master in 💻 Automotiv
 - ⚡ Hobbies: I love playing video games and watching dramas and anime
 ## 🛠 Skills
 PHP, C, C#, C++, Java, JS, Problem solving, Laravel, MS Office, REST API, Database, SQL, OOP, MVC, HTML5, CSS3, Bootstrap, JQuery, PostgreSQL. V model, Can Bus, ISpin, WordPress, Selenieum and many more ...
-## <i class="bi bi-activity"></i> Stats
+## 🌎 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArafatTheGoldenBoy" />
 </a>

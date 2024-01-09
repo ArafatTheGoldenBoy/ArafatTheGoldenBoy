@@ -9,5 +9,9 @@ I'm a computer science student. Currently, I'm doing my master in 💻 Automotiv
 - ⚡ Hobbies: I love playing video games and watching dramas and anime
 ## 🛠 Skills
 PHP, C, C#, C++, Java, JS, Problem solving, Laravel, MS Office, REST API, Database, SQL, OOP, MVC, HTML5, CSS3, Bootstrap, JQuery, PostgreSQL. V model, Can Bus, ISpin, WordPress, Selenieum and many more ...
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArafatTheGoldenBoy" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArafatTheGoldenBoy&layout=compact&langs_count=8&card_width=320" />
+</a>

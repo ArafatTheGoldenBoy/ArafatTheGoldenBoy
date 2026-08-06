@@ -1,9 +1,9 @@
 ###  Hi, I'm Yasin Arafat! 👋
 ## 🚀 About Me
-I'm a computer science student. Currently, I'm doing my master's in 💻 Automotive Software Engineering 💻.
-- 🔭 I’m right now super busy with my internship.
-- 🌱 I’m currently learning stock markets
-- 👯 I’m looking to collaborate on web engineering and automation.
+I'm a computer science graduate. Currently, I have completed my master's in 💻 Automotive Software Engineering 💻.
+- 🔭 I’m right now applying for Job.
+- 🌱 I’m currently learning more about Artificial Intelegence.
+- 👯 I’m looking to collaborate on software engineering and automation.
 - 💬 Ask me about Islam and computer programming at any time
 - 📫 How to reach me: by email or phone
 - ⚡ Hobbies: I love playing video games and watching dramas and anime

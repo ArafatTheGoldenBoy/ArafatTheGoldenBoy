@@ -7,7 +7,7 @@ I'm a computer science graduate with a master's in 💻 Automotive Software Engi
 - 🔭 I'm currently applying for jobs.
 - 🌱 I'm currently learning more about Artificial Intelligence.
 - 👯 I'm looking to collaborate on software engineering and automation.
-- 💬 Ask me anything about computer related question at any time.
+- 💬 Ask me anything about computer-related questions at any time.
 - ⚡ Hobbies: I love playing video games and watching dramas and anime.
 
 ## 📫 How to reach me

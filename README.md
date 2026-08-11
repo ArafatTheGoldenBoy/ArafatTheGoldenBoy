@@ -17,12 +17,18 @@ I'm a computer science graduate with a master's in 💻 Automotive Software Engi
 
 ## 🛠 Skills
 
-**Languages** — C, C++, C#, Java, JavaScript, PHP
+**Languages** — Python, C, C++, C#, JavaScript, Java, PHP
 
-**Web & Frameworks** — Laravel, REST API, MVC, HTML5, CSS3, Bootstrap, jQuery, WordPress
+**ADAS & Simulation** — CARLA closed-loop simulation, scenario-based testing and validation, ECU-style architecture, message-bus design, dynamic safety envelopes, time-to-collision logic, multi-stage braking policies, PI control, slip-aware ABS augmentation
 
-**Databases** — SQL, PostgreSQL, database design
+**Perception & ML** — PyTorch, CUDA, OpenCV, object detection (MobileNetV4-SSD, YOLOv10, SSD, Faster R-CNN), monocular depth and range estimation, detection-confidence and uncertainty handling
 
-**Automotive & Computer Vision** — CAN bus, OpenCV, V-model, iSpin
+**Vehicle & Embedded** — CAN bus communication, ECU-to-ECU messaging, real-time control logic, Raspberry Pi, hardware–software integration
 
-**Practices & Tools** — OOP, Selenium, problem-solving, MS Office
+**Validation & Standards** — open- and closed-loop benchmarking, ablation studies, telemetry export, structured logging, reproducible experiment pipelines; working familiarity with ISO 26262, SOTIF and Euro NCAP AEB evaluation concepts
+
+**Backend & Web** — ASP.NET Core, Node.js, Express.js, Laravel, REST APIs, JWT and refresh tokens, MVC, HTML5, CSS3, Bootstrap, jQuery, WordPress
+
+**Databases** — SQL, PL/SQL, PostgreSQL, MySQL, relational database design
+
+**Practices & Tools** — OOP, V-model, iSpin, Selenium, problem-solving

@@ -19,6 +19,7 @@ I'm a computer science graduate with a master's in 💻 Automotive Software Engi
 | **[Dynamic-Braking-System](https://github.com/ArafatTheGoldenBoy/Dynamic-Braking-System)** | The perception groundwork — MobileNet-SSD to YOLOv10, monocular range estimation, custom traffic-light training. |
 | **[Security_webapp](https://github.com/ArafatTheGoldenBoy/Security_webapp)** | ASP.NET Core 10 app built around its security posture: JWT key-ring crypto agility, rotating refresh tokens, audit logging, hybrid post-quantum TLS at the edge. |
 | **[learn_german_with_yasin](https://github.com/ArafatTheGoldenBoy/learn_german_with_yasin)** | React Native / Expo vocabulary trainer with category management and quiz progress tracking. |
+| **[learn_german_with_yasin_v2](https://github.com/ArafatTheGoldenBoy/learn_german_with_yasin_v2)** | Offline German trainer — 1,923 verbs, 18 drill modes on a Leitner schedule, 413 job-call phrases, in seven dependency-free HTML pages. **[Try it live](https://arafatthegoldenboy.github.io/learn_german_with_yasin_v2/)** |
 | **[Raspberry_pi-to-pi-canbus-communication](https://github.com/ArafatTheGoldenBoy/Raspberry_pi-to-pi-canbus-communication)** | Multi-ECU vehicle prototype: Raspberry Pis talking over CAN bus. |
 
 ## 📫 How to reach me

@@ -16,7 +16,7 @@ I'm a computer science graduate with a master's in 💻 Automotive Software Engi
 | --- | --- |
 | **[Dynamic_brake_state_v2](https://github.com/ArafatTheGoldenBoy/Dynamic_brake_state_v2)** | My M.Sc. thesis codebase — closed-loop braking in CARLA with YOLO perception, split into ECU, planning, ABS and telemetry modules. |
 | **[Dynamic-Brake-State-Scenarios](https://github.com/ArafatTheGoldenBoy/Dynamic-Brake-State-Scenarios)** | Scenario-level braking experiments: lane gating, HSV traffic-light state, friction-dependent stopping behaviour. |
-| **[Dynamic-Breaking-System](https://github.com/ArafatTheGoldenBoy/Dynamic-Breaking-System)** | The perception groundwork — MobileNet-SSD to YOLOv10, monocular range estimation, custom traffic-light training. |
+| **[Dynamic-Braking-System](https://github.com/ArafatTheGoldenBoy/Dynamic-Braking-System)** | The perception groundwork — MobileNet-SSD to YOLOv10, monocular range estimation, custom traffic-light training. |
 | **[Security_webapp](https://github.com/ArafatTheGoldenBoy/Security_webapp)** | ASP.NET Core 10 app built around its security posture: JWT key-ring crypto agility, rotating refresh tokens, audit logging, hybrid post-quantum TLS at the edge. |
 | **[learn_german_with_yasin](https://github.com/ArafatTheGoldenBoy/learn_german_with_yasin)** | React Native / Expo vocabulary trainer with category management and quiz progress tracking. |
 | **[Raspberry_pi-to-pi-canbus-communication](https://github.com/ArafatTheGoldenBoy/Raspberry_pi-to-pi-canbus-communication)** | Multi-ECU vehicle prototype: Raspberry Pis talking over CAN bus. |
